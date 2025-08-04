@@ -1,3 +1,3 @@
 https://dovuq.github.io/
 
-https://dovuq.github.io/about
+https://dovuq.github.io/en/about/
